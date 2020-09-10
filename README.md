@@ -2,4 +2,5 @@
 
 ## *Download Instructions*
 
-1. Click on the file `ff`
+1.  Click on the file `SBCUSD VDH Tracking.zip` 
+2.  Click on the `Download` button.
