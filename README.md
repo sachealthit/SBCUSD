@@ -2,16 +2,12 @@
 
 ## *Download Instructions*
 
-1.  Click on the file `SBCUSD VDH Tracking.zip`.
+1.  Click on the file `VDH Tracking.xlsx`.
 2.  Click on the `Download` button.
 
-## *Extraction Instructions*
+## *Workbook Protection*
 
-1. Right click the zip file `SBCUSD VDH Tracking.zip`.
-2. Click on `Extract All...`.
-3. Select a location for the files to be extracted to.
-4. A Password promt will appear enter the password disclosed from the email.
-
+1. Simply open the file and you will be prompted to enter a password.
 
 ### *Questions & Concerns*
 
