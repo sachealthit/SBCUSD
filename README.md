@@ -7,7 +7,7 @@
 
 ## *Workbook Protection*
 
-1. Simply open the file and you will be prompted to enter a password.
+1. Simply open the file and you will be prompted to enter the password.
 
 ### *Questions & Concerns*
 
