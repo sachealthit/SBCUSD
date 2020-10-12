@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/Development%20Status-Production-brightgreen)
+![](https://img.shields.io/badge/Report%20Type-Excel-blue)
+![](https://img.shields.io/badge/-User%20Request-orange)
+
 # *SBCUSD VDH Data*
 
 ## *Download Instructions*
